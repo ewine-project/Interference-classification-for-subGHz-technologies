@@ -19,3 +19,5 @@ In order to make the streamed IQ samples compatible with CNN, we divide the IQ s
 [3] J. C. T. J. OShea, and T. C. Clancy, "Convolutional radio modulation recognition networks," in International Conference on Engineering Applications of Neural Networks, , 2016.<br/>
 [4] "eWINE deliverable D5.3," https://ewine-project.eu/wp-content/uploads/eWINE_D5.3_Final.pdf.<br/>
 
+## Contact
+If you need any further details about the model, then you can contact at adnan.shahid@ugent.be
