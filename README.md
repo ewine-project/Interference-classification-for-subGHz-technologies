@@ -14,7 +14,6 @@ In order to make the streamed IQ samples compatible with CNN, we divide the IQ s
 | Dense layer | 1 x 500 | 8 neurons | Softmax |
 
 
-
 ## References
 [1] https://github.com/ewine-project/SubGHz-technologies-dataset-Sigfox-LoRA-and-IEEE802.15.4g-subGHz-<br/>
 [2] D. Kingma and J. Ba, "Adam: A method for stochastic optimization," arXiv preprint arXiv:1412.6980, 2014.<br/>
