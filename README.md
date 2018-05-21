@@ -1,1 +1,1 @@
-# Interference-classification-for-subGHz-technologies
+# Interference classification for subGHz technologies
